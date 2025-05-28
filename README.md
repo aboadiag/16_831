@@ -1,4 +1,4 @@
-[16831 Intro to Robot Learning 2025]
+# 16831 Intro to Robot Learning 2025
 
 The goal of each homework is as follows:
 
